@@ -10,6 +10,9 @@
     "@types/node": "^12.20.17",
     "@types/react": "^17.0.15",
     "@types/react-dom": "^17.0.9",
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "pg": "^8.7.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
@@ -39,5 +42,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.8",
+    "@babel/plugin-proposal-class-properties": "^7.14.5",
+    "@babel/preset-env": "^7.14.8",
+    "@babel/preset-react": "^7.14.5",
+    "babel-loader": "^8.2.2",
+    "webpack": "^5.47.0",
+    "webpack-cli": "^4.7.2"
   }
 }

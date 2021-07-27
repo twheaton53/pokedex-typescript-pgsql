@@ -1,4 +1,4 @@
-# pokedex-typescript
+# pokedex-typescript-pgsql
 Pokedex with PostGreSQL done in TypeScript/Express
 
 # Goals for this repo:
